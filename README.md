@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! I'm Chris 👋🏽
 
 <!--
 **cmerino01/cmerino01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

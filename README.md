@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/cmerino01/cmerino01/main/Gihub%20banner.jpg" alt=" banner that says Christopher Merino Brito - software engineer - content creator alongside cartoon illustration with USC logo background">
+<img src="https://raw.githubusercontent.com/cmerino01/cmerino01/main/Gihub%20banner%20v2.jpg" alt=" banner that says Christopher Merino Brito - software engineer - content creator alongside cartoon illustration with USC logo background">
 I'm a Computer Engineering major who is passionate about educating and helping build communities. My preferred language is C++, but I have worked with Python and Java.
 
 ## Find me around the web 🌎:
